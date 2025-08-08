@@ -26,7 +26,7 @@ h3 {
 
 # --- CONFIGURATION ---
 WEATHER_API_KEY = "c196c9feb0744e4f84c90910250808"
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "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"
 CO2_DATA_URL = "https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv"
 
 
